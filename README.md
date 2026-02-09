@@ -1,4 +1,4 @@
-# Synthwave '84 theme for [Omakube](https://omakube.omakasui.org) and Omadeb
+# Synthwave '84 theme for [Omabuntu](https://omabuntu.omakasui.org) and Omadeb
 
 Install using `omakub-theme-install https://github.com/omakasui/omakasui-synthwave84-theme.git`.
 
